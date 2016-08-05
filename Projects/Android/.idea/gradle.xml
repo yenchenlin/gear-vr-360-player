@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../.." />
+            <option value="$PROJECT_DIR$/../../../../../VrApi" />
+            <option value="$PROJECT_DIR$/../../../../../VrApi/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrApi/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppFramework" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppFramework/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppFramework/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../.." />
+            <option value="$PROJECT_DIR$/../../.." />
+            <option value="$PROJECT_DIR$/../.." />
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../../.." />
+            <option value="$PROJECT_DIR$/../../../../../VrApi" />
+            <option value="$PROJECT_DIR$/../../../../../VrApi/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrApi/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppFramework" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppFramework/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppFramework/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects" />
+            <option value="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects/AndroidPrebuilt" />
+            <option value="$PROJECT_DIR$/../../../.." />
+            <option value="$PROJECT_DIR$/../../.." />
+            <option value="$PROJECT_DIR$/../.." />
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

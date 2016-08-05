@@ -1,0 +1,286 @@
+[
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/default_keyboard_set.json",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/default_keyboard_set.json"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/space_dn.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/space_dn.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_hand.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_hand.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/scrollbar_thumb_vert.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/scrollbar_thumb_vert.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/volume_bg.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/volume_bg.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_dot.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_dot.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/debug_console_sdf.ktx",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/debug_console_sdf.ktx"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/nav_arrow_down.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/nav_arrow_down.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/purple.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/purple.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/shift_up.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/shift_up.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/qwerty_keyboard.json",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/qwerty_keyboard.json"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/return_dn.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/return_dn.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/kbd_btn_up.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/kbd_btn_up.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/mustard.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/mustard.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/burgundy.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/burgundy.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/efigs_sdf.ktx",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/efigs_sdf.ktx"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/panel_square.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/panel_square.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_caret.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_caret.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sound_assets.json",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/sound_assets.json"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_track_vert.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_track_vert.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/scrollbar_thumb_horz.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/scrollbar_thumb_horz.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/shift_dn.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/shift_dn.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_track_full_vert.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_track_full_vert.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_base_vert_small.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_base_vert_small.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_cross.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_cross.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/delete_up.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/delete_up.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/loading_indicator.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/loading_indicator.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_hi.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_hi.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/volume_tick_on.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/volume_tick_on.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sv_panel_touch_up.wav",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/sv_panel_touch_up.wav"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_caret_hi.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_caret_hi.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/return_up.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/return_up.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/scrollbar_base_horz.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/scrollbar_base_horz.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/out_of_disk_space_warning.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/out_of_disk_space_warning.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_track_vert_small.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_track_vert_small.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_base_vert.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_base_vert.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/color_ramp_timer.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/color_ramp_timer.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/kbd_btn_dn.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/kbd_btn_dn.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_bubble_vert.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_bubble_vert.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/symbols_keyboard.json",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/symbols_keyboard.json"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_scrubber.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_scrubber.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_timer.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_timer.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/swipe_suggestion_arrow_down.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/swipe_suggestion_arrow_down.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sv_select.wav",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/sv_select.wav"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/swipe_suggestion_arrow_up.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/swipe_suggestion_arrow_up.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/field_normal.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/field_normal.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/orange.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/orange.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/charcoal.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/charcoal.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/panel_hi_square.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/panel_hi_square.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sv_panel_touch_down.wav",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/sv_panel_touch_down.wav"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sv_release_active.wav",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/sv_release_active.wav"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_bar.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_bar.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/slider_track_full_vert_small.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/slider_track_full_vert_small.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/panel.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/panel.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_dot_hi.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_dot_hi.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/delete_dn.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/delete_dn.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/darkgreen.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/darkgreen.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/scrollbar_base_vert.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/scrollbar_base_vert.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/space_up.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/space_up.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/volume_tick_off.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/volume_tick_off.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/grey.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/grey.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sv_focusgained.wav",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/sv_focusgained.wav"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/volume_icon.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/volume_icon.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/sv_deselect.wav",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/sv_deselect.wav"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/seablue.png",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/seablue.png"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_circle_64x64.ktx",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_circle_64x64.ktx"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/efigs.fnt",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/efigs.fnt"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/debug_console.fnt",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/res/raw/debug_console.fnt"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/gaze_cursor_cross_hi.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/gaze_cursor_cross_hi.tga"
+    },
+    {
+        "merged": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/res/merged/debug/raw/panel_hi.tga",
+        "source": "/Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/res/raw/panel_hi.tga"
+    }
+]

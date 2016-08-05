@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android.iml" filepath="$PROJECT_DIR$/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Native.iml" filepath="$PROJECT_DIR$/../../../Native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Native-Oculus360VideosSDK.iml" filepath="$PROJECT_DIR$/../../Native-Oculus360VideosSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../Oculus360VideosSDK.iml" filepath="$PROJECT_DIR$/../../../../../Oculus360VideosSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oculus360VideosSDK-Projects.iml" filepath="$PROJECT_DIR$/../Oculus360VideosSDK-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/SystemUtils.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/SystemUtils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects/SystemUtils-Projects.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects/SystemUtils-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects/AndroidPrebuilt/SystemUtils-Projects-AndroidPrebuilt.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/SystemUtils/Projects/AndroidPrebuilt/SystemUtils-Projects-AndroidPrebuilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrApi/VrApi.iml" filepath="$PROJECT_DIR$/../../../../../VrApi/VrApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrApi/Projects/VrApi-Projects.iml" filepath="$PROJECT_DIR$/../../../../../VrApi/Projects/VrApi-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrApi/Projects/AndroidPrebuilt/VrApi-Projects-AndroidPrebuilt.iml" filepath="$PROJECT_DIR$/../../../../../VrApi/Projects/AndroidPrebuilt/VrApi-Projects-AndroidPrebuilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppFramework/VrAppFramework.iml" filepath="$PROJECT_DIR$/../../../../../VrAppFramework/VrAppFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppFramework/Projects/VrAppFramework-Projects.iml" filepath="$PROJECT_DIR$/../../../../../VrAppFramework/Projects/VrAppFramework-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppFramework/Projects/AndroidPrebuilt/VrAppFramework-Projects-AndroidPrebuilt.iml" filepath="$PROJECT_DIR$/../../../../../VrAppFramework/Projects/AndroidPrebuilt/VrAppFramework-Projects-AndroidPrebuilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrAppSupport.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrAppSupport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/VrGUI.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/VrGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects/VrGUI-Projects.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects/VrGUI-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects/AndroidPrebuilt/VrGUI-Projects-AndroidPrebuilt.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrGUI/Projects/AndroidPrebuilt/VrGUI-Projects-AndroidPrebuilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/VrLocale.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/VrLocale.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects/VrLocale-Projects.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects/VrLocale-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects/AndroidPrebuilt/VrLocale-Projects-AndroidPrebuilt.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrLocale/Projects/AndroidPrebuilt/VrLocale-Projects-AndroidPrebuilt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../VrSamples.iml" filepath="$PROJECT_DIR$/../../../../VrSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/VrSound.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/VrSound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects/VrSound-Projects.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects/VrSound-Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects/AndroidPrebuilt/VrSound-Projects-AndroidPrebuilt.iml" filepath="$PROJECT_DIR$/../../../../../VrAppSupport/VrSound/Projects/AndroidPrebuilt/VrSound-Projects-AndroidPrebuilt.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:2:1-35:12
+	xmlns:android
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:2:70-109
+		INJECTED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml
+		INJECTED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:2:134-159
+		INJECTED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml
+		INJECTED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:2:110-133
+		INJECTED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml
+		INJECTED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:2:160-198
+uses-sdk
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:4:3-72
+MERGED from [Oculus360VideosSDK.VrAppFramework.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppFramework.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.SystemUtils.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.SystemUtils.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:7:5-10:16
+MERGED from [Oculus360VideosSDK.VrApi.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrApi.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:5:5-7:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrGUI.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrLocale.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrLocale.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrSound.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrSound.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:4:40-69
+	android:minSdkVersion
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:4:13-39
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:6:20-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:8:3-78
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:8:20-75
+uses-feature#android.hardware.usb.host
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:9:3-60
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:9:17-57
+uses-permission#android.permission.INTERNET
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:10:3-65
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:10:20-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:11:3-73
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:11:20-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:12:3-76
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:12:20-74
+uses-feature#0x00030000
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:15:3-76
+	android:required
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:15:50-73
+	android:glEsVersion
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:15:17-49
+application
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:16:3-34:17
+MERGED from [Oculus360VideosSDK.VrAppSupport.SystemUtils.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.SystemUtils.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:12:5-20
+MERGED from [Oculus360VideosSDK.VrAppSupport.VrGUI.Projects:AndroidPrebuilt:unspecified] /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/build/intermediates/exploded-aar/Oculus360VideosSDK.VrAppSupport.VrGUI.Projects/AndroidPrebuilt/unspecified/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:16:80-112
+	android:allowBackup
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:16:16-42
+	android:icon
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:16:43-79
+meta-data#com.samsung.android.vr.application.mode
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:17:5-97
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:17:16-70
+	android:value
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:17:71-94
+activity#com.oculus.oculus360videossdk.MainActivity
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:5-33:16
+	android:screenOrientation
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:203-240
+	android:label
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:138-170
+	android:configChanges
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:22:5-75
+	android:theme
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:73-137
+	android:excludeFromRecents
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:245-279
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:15-72
+	android:launchMode
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:21:171-202
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:24:7-27:23
+action#android.intent.action.MAIN
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:25:9-61
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:25:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:26:9-69
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:26:19-66
+intent-filter#android.intent.action.SEND+android.intent.category.DEFAULT
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:28:7-32:23
+action#android.intent.action.SEND
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:29:17-58
+category#android.intent.category.DEFAULT
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:30:9-68
+	android:name
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:30:19-65
+data
+ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:31:9-45
+	android:mimeType
+		ADDED from /Users/YenChen/Downloads/ovr_sdk_mobile_1.0.3/VrSamples/Native/Oculus360VideosSDK/Projects/Android/AndroidManifest.xml:31:15-42

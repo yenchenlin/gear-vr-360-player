@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string description="The name of the settings menu." name="action_settings" project="oculus-360-videos">Settings</string>
+    <string description="The title of the application, which lets you watch videos that have 360 degrees of view (i.e. you can turn your head in any direction)" name="app_name" project="oculus-360-videos">Oculus 360 Videos SDK</string>
+    <string name="font_name">efigs.fnt</string>
+    <string description="The message displayed when no media found on the phone." name="media_not_found" project="oculus-360-videos">To view your own 360 videos, save them to the /Oculus/360Videos/ folder on your device.</string>
+    <string description="This is a warning message that informs the user to free up some memory in order to run the app" name="out_of_memory" project="vr-lib">To use Oculus 360 Photos, please free up at least <ns1:g id="kilobytes">%1$s</ns1:g>KB of device storage on your phone.</string>
+    <string description="The message displayed when an existing media file fails to play." name="playback_failed" project="oculus-360-videos">
+    Failed to load media for playback. Please check <ns1:g id="media_name">%1$s</ns1:g>
+  </string>
+    <string description="This is a tooltip that tells the user they can swipe on the touchpad to browse through folders. It is accompanied by arrows indicated the direction to swipe." name="swipe_to_browse" project="vr-lib">Swipe to Browse</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

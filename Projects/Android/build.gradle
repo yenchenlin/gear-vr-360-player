@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+apply from: "${rootProject.projectDir}/VrApp.gradle"
+
+dependencies {
+  compile project(':VrAppFramework:Projects:AndroidPrebuilt')
+  compile project(':VrAppSupport:SystemUtils:Projects:AndroidPrebuilt')
+  compile project(':VrAppSupport:VrGUI:Projects:AndroidPrebuilt')
+  compile project(':VrAppSupport:VrLocale:Projects:AndroidPrebuilt')
+  compile project(':VrAppSupport:VrSound:Projects:AndroidPrebuilt')
+}
+
+android {
+  project.archivesBaseName = "oculus360videossdk"
+
+  defaultConfig {
+    applicationId "com.oculus.oculus360videossdk"
+  }
+
+  compileSdkVersion 19
+  buildToolsVersion '23.0.1'
+
+  sourceSets {
+    main {
+      manifest.srcFile 'AndroidManifest.xml'
+      java.srcDirs = ['../../java']
+      jniLibs.srcDir 'libs'
+      res.srcDirs = ['../../res']
+      assets.srcDirs = ['../../assets']
+    }
+  }
+}

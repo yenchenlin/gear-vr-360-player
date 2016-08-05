@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string gender="unknown" name="out_of_memory">Để sử dụng Oculus 360 Photos, vui lòng giải phóng tối thiểu %%1$sKB bộ nhớ điện thoại.</string>
+    <string gender="unknown" name="swipe_to_browse">Vuốt để duyệt</string>
+</resources>
